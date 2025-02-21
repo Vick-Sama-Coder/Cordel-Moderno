@@ -49,7 +49,7 @@ header > p{
 }
 section{
     line-height: 2em;
-    font-family: monospace;
+    font-family: FreeMono, monospace;
 }
 p{
     padding: 20px;
